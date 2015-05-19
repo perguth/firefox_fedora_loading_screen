@@ -2,8 +2,6 @@
 
 *Appify the web: simulate a loading screen in Firefox.*
 
-## Demo
-
 ![Start the app](http://imageshack.com/a/img537/2544/Pl8SrP.png)  
 ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣
 ![Loading screen](http://imageshack.com/a/img908/8660/QXGrfI.png)  
