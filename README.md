@@ -3,9 +3,9 @@
 *Appify the web: simulate a loading screen in Firefox.*
 
 ![Start the app](http://imageshack.com/a/img537/2544/Pl8SrP.png)  
-⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣
+⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ 
 ![Loading screen](http://imageshack.com/a/img908/8660/QXGrfI.png)  
-⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣
+⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ ⇣⇣⇣ 
 ![Running app](http://imageshack.com/a/img673/6714/CWZhjB.png)
 
 ## Install/Setup
