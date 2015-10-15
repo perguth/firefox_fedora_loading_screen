@@ -1,4 +1,4 @@
-# fedora_firefox_loading_screen
+# fedora firefox loading screen
 
 *Appify the web: simulate a loading screen in Firefox.*
 
@@ -20,6 +20,12 @@ echo `pwd`/index.html
 - Under `Preferences` in Firefox do the following:
 - Be sure to set `When Firefox Developer Edition starts:` to `Show my windows and tabs from the last time`.
 - Set `Home Page:` to what's in your clipboard.
+
+The extensions I used to hide the navigation bar and tabs:
+- [Hide Navigation Bar](https://addons.mozilla.org/en-US/firefox/addon/hide-navigation-bar/)
+  It offers to auto hide the nav bar in its settings.
+- [Hide Tab Bar With One Tab](https://addons.mozilla.org/en-US/firefox/addon/hide-tab-bar-with-one-tab/)
+
 
 ***
 
